@@ -1,0 +1,157 @@
+body{
+    top:0px;
+    left:0px;
+    width:1366px;
+    height:20907px;
+    background: #FFFFFF;
+    opacity: 1;
+    margin-left:139px;
+    padding:20px;
+
+}
+.header{
+    font-size: 35px;
+    font-weight: bold;
+    top:52px;
+    left:139px;
+    width:207px;
+    height:39px;
+    color: #424242;
+    opacity: 1;
+    text-align: left;
+    margin:40px 0px 0px 0px;
+}
+.parent-text{
+    top: 121px;
+    left: 139px;
+    width: 1088px;
+    height: 407px;
+
+}
+.text{
+    text-align: left;
+    font-size:21px;
+    font-weight:100;
+    letter-spacing: 0px;
+    color: #858585;
+    opacity: 1;
+}
+.images{
+    top: 626px;
+    left: 139px;
+    width: 444px;
+    height: 233px;
+    opacity: 1;
+}
+.steps-ol{
+    top: 899px;
+    left: 139px;
+    opacity: 1;
+    padding-left:15px;
+
+}
+.steps-ul{
+    top: 899px;
+    left: 139px;
+    opacity: 1;
+    padding-left:15px;
+
+}
+#example-text{
+    top: 2036px;
+    left: 139px;
+    width: 1088px;
+    height: 120px;
+    background: #F8F8F8 0% 0% no-repeat padding-box;
+    border-radius:10px;
+    opacity: 1;
+    border: 1px solid #EDEDED;
+    padding: 15px;
+    
+}
+.Rectangle-3{
+    top: 1606px;
+    left: 139px;
+    width: 1088px;
+    height: 400px;
+    border: 1px solid #D8D8D8;
+    border-radius: 10px;
+    opacity: 1;
+    
+}
+.node-code{
+    top: 1639px;
+    left: 172px;
+    width: 392px;
+    height: 334px;
+    color:#007EB4;
+    padding-top:20px;
+    font-weight:300px;
+    font-size:18px;
+    text-align: left;
+}
+h5{
+    text-align: left;
+    font-size:21px;
+    font-weight: 100;
+    letter-spacing: 0px;
+    color: #424242;
+    opacity: 1;
+    margin:20px 0px 30px 0px;
+}
+h3{
+    text-align: left;
+    font-size:21px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #424242;
+}
+.search-tree{
+    text-align: left;
+    font-size:22px;
+    font-weight:bold;
+    font-size:22px;
+    letter-spacing: 0px;
+    color: #424242;
+    opacity: 1;
+}
+#group-37{
+    top: 3028px;
+    left: 139px;
+    width: 812px;
+    height: 147px;
+    opacity: 1;
+}
+.bolder-item{
+    color:#424242
+}
+.table-text{
+    color:#424242;
+    font-weight:bold;
+    font-size:18px;
+
+}
+.table-no{
+    color:#007EB4
+}
+.table-pre-text{
+    display:inline;
+    position:relative;
+    top:25px;
+
+}
+.table-row-content{
+    display:inline;
+    margin-left:20px;
+    position: absolute;
+    left:480px;
+}
+#table-appearance{
+    margin-left:100px;
+    width: 624px;
+    height: 667px;
+}
+.table-row{
+    height: 101px;
+    padding-left:50px;
+}
